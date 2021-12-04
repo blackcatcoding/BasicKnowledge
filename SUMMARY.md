@@ -6,3 +6,5 @@
 * [计算机语言](mddir/3.md)
 * [数制转换](mddir/4.md)
 * [原码反码和补码](mddir/5.md)
+* [计算机病毒](ji-suan-ji-bing-du.md)
+* [计算机网络](ji-suan-ji-wang-luo.md)
